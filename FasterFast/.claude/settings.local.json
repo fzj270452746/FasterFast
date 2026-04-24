@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcodebuild -project FasterFast.xcodeproj -scheme FasterFast -destination 'platform=iOS Simulator,name=iPhone 17' build)",
+      "Bash(wait)"
+    ]
+  }
+}
