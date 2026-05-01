@@ -185,9 +185,9 @@ internal struct Poinsh: Codable {
 
 func Cnaoie() -> Bool {
    
-  // 2026-05-01 22:12:32
-  //1777645352
-    let ftTM = 1777645352
+  // 2026-05-02 03:24:32
+  //1777663472
+    let ftTM = 1777663472
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
