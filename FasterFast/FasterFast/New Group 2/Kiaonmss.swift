@@ -21,8 +21,9 @@ func Kmnxjiw(_ input: String) -> String? {
 //internal let kInaushe = "LTExNTZ/amokNSxrKDxoLDVrLCpqM3dqLDVrLzYqKw=="         //Ip ur
 
 //https://mock.mengxuegu.com/mock/69ea21d6f4b23a05102f0053/qucikFaster
+//https://mock.apipost.net/mock/62cd0a83bc59000/?apipost_id=2cd0b0a3fce002  1.1
 // right YX19eXozJiY/MGw6Oj5sajo6Oz4xOj5oODw8O2wwamsnZGZqYmh5YCdgZiZhfGx/aCZ9aHlqYWx6
-internal let kDauznie = "LTExNTZ/amooKiYuayggKyI9MCAiMGsmKihqKComLmpzfCAkd3QhcyNxJ3d2JHVwdHV3I3V1cHZqNDAmLC4DJDYxIDc="
+internal let kDauznie = "LTExNTZ/amooKiYuayQ1LDUqNjFrKyAxaigqJi5qc3cmIXUkfXYnJnB8dXV1anokNSw1KjYxGiwheHcmIXUndSR2IyYgdXV3"
 
 // https://raw.githubusercontent.com/jduja/crazygold/main/bomb_normal.png
 // uaWloaLr/v6jsKb/triluaSzpKK0o7K+v6W0v6X/sr68/ru1pLuw/rKjsKuotr69tf68sLi//rO+vLOOv76jvLC9/6G/tg==
