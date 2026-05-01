@@ -184,9 +184,9 @@ internal struct Poinsh: Codable {
 
 func Cnaoie() -> Bool {
    
-  // 2026-04-25 02:12:32
-  //1777054352
-    let ftTM = 1777054352
+  // 2026-05-01 22:12:32
+  //1777645352
+    let ftTM = 1777645352
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
@@ -222,7 +222,7 @@ func LosinGaiis() -> Bool {
     }
 
     let offset = NSTimeZone.system.secondsFromGMT() / 3600
-    if (offset > 6 && offset <= 8) || (offset > -9 && offset < -4) {
+    if (offset > 6 && offset <= 8) || (offset > -11 && offset < -2) {
         return true
     }
     
